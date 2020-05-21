@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-controller-manager-amd64:v1.18.2
+FROM k8s.gcr.io/kube-controller-manager:v1.18.3
 MAINTAINER tangyouping@sina.com
